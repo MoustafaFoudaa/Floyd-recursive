@@ -21,7 +21,7 @@ class TestFloydWarshallRecursive(unittest.TestCase):
             [float('inf'), float('inf'), float('inf'), 0]
         ]
         result = floyd_warshall_recursive(graph_example, 3, 1, 2)
-        expected_result = 5  # Add your expected result based on the input
+        expected_result = 5
         self.assertEqual(result, expected_result)
 
     def test_floyd_warshall_recursive_wrapper(self):
