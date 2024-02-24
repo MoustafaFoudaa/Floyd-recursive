@@ -1,0 +1,18 @@
+Folder PATH listing for volume SSD1TB
+Volume serial number is 04D6-FF8A
+D:.
+¦   .coverage
+¦   directorytree.txt
+¦   Floyd_recursive_function.py
+¦   fn_test.py
+¦   github_link.docx
+¦   README.md
+¦   recursion_floyd_report.docx
+¦   requirements.txt
+¦   time_test_iterative_vs_recursive.py
+¦   
++---__pycache__
+        Floyd_recursive_function.cpython-311.pyc
+        Floyd_recursive_function.cpython-312.pyc
+        fn_test.cpython-312.pyc
+        
